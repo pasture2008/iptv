@@ -77,13 +77,10 @@ http://192.168.1.1:8012/rtp/239.3.1.154:8001
 http://192.168.1.1:8012/rtp/239.3.1.221:8001
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png",内蒙古卫视高清
 http://[2409:8087:1020:301:2026::17]:80/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/01.m3u8?fmt=ts2hls
-#http://live9.m2oplus.nmtv.cn/nmgws/hd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古新闻综合" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png",内蒙古新闻综合
 http://[2409:8087:1070:301:2026::1e]:80/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225875/01.m3u8?fmt=ts2hls
-#http://live10.m2oplus.nmtv.cn/xwzh/hd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古经济生活" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png",内蒙古经济生活
 http://[2409:8087:1070:301:2028::1d]:80/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225879/01.m3u8?fmt=ts2hls
-#http://live10.m2oplus.nmtv.cn/jjsh/hd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古文体娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png",内蒙古文体娱乐
 http://[2409:8087:1050:301:2026::17]:80/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225877/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古农牧频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png",内蒙古农牧频道
