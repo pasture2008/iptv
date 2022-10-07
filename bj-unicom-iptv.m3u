@@ -44,29 +44,9 @@ http://192.168.1.1:8012/rtp/239.3.1.215:4220
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN记录
 http://192.168.1.1:8012/rtp/239.3.1.216:4220
 #EXTINF:-1 tvg-id="240" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文1080p
-#http://111.13.42.169/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
-#http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/3221228057/index.m3u8
 http://183.251.61.250/PLTV/88888888/224/3221227222/index.m3u8
-#rtsp://hkss3.phoenixtv.com:1935/fs/pcc.stream
-#http://ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-#http://220.201.218.82:65530/live/fhzw/index.m3u8
-#http://hdtv.lzu6.edu.cn/hls/hls254.m3u8
-#http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
-#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 tvg-id="241" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯1080p
-#http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228098/index.m3u8
 http://183.251.61.250/PLTV/88888888/224/3221227226/index.m3u8
-#http://111.13.42.169/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-#rtsp://hkss3.phoenixtv.com:1935/fs/pic.stream
-#http://220.201.218.82:65530/live/fhzx/index.m3u8
-#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225949/1.m3u8
-#http://117.148.187.59/PLTV/88888888/224/3221226491/index.m3u8
-#http://ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-#http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-#EXTINF:-1 tvg-id="241" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰香港1080p
-http://ott.mobaibox.com/PLTV/3/224/3221228060/index.m3u8
-#rtsp://hkss3.phoenixtv.com:1935/fs/phk.stream
-#http://ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 #EXTINF:-1 tvg-id="23" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视高清
 http://192.168.1.1:8012/rtp/239.3.1.241:8000
 #EXTINF:-1 tvg-id="146" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="北京",BTV文艺高清
@@ -110,19 +90,10 @@ http://[2409:8087:1050:301:2026::17]:80/gslbserv.iptv.nm.chinamobile.com/PLTV/88
 http://[2409:8087:1070:301:2028::18]:80/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225878/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",呼伦贝尔新闻
 http://[2409:8087:1050:301:2026::18]:80/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225933/01.m3u8?fmt=ts2hls
-#http://live.hrtonline.cn/flv/live/live001.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",呼伦贝尔文化旅游
 http://[2409:8087:1050:301:2026::18]:80/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225934/01.m3u8?fmt=ts2hls
-#http://live.hrtonline.cn/flv/live/live002.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",呼伦贝尔生活
 http://[2409:8087:1050:301:2026::17]:80/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225935/01.m3u8?fmt=ts2hls
-#http://live.hrtonline.cn/flv/live/live003.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宜昌综合
-http://117.78.1.234/yc.php?id=yczh
-#http://117.78.1.234/cjy.php?id=yczh
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宜昌旅游生活
-http://117.78.1.234/yc.php?id=yclysh
-#http://117.78.1.234/cjy.php?id=ycgg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",枝江综合
 http://zhijiang-live21.cjyun.org/10120/s10120-zjtv.m3u8?auth_key=1672502399-0-0-f83353fbbe0d14afcc290bf428217de2
 #http://117.78.1.234/cjy.php?id=zjzh
@@ -140,8 +111,6 @@ http://192.168.1.1:8012/rtp/239.3.1.137:8036
 http://192.168.1.1:8012/rtp/239.3.1.135:8028
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视高清
 http://192.168.1.1:8012/rtp/239.3.1.136:8032
-#EXTINF:-1 tvg-id="31" tvg-name="上视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",上视新闻高清
-http://223.111.195.52/keonline.shanghai.liveplay.qq.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视高清
 http://192.168.1.1:8012/rtp/239.3.1.138:8044
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视高清
