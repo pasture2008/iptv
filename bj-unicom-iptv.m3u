@@ -85,13 +85,10 @@ http://192.168.1.1:8012/rtp/239.3.1.154:8001
 http://192.168.1.1:8012/rtp/239.3.1.221:8001
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png",内蒙古卫视高清
 http://[2409:8087:1020:301:2026::17]:80/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/01.m3u8?fmt=ts2hls
-#http://live9.m2oplus.nmtv.cn/nmgws/hd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古新闻综合" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png",内蒙古新闻综合
 http://[2409:8087:1070:301:2026::1e]:80/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225875/01.m3u8?fmt=ts2hls
-#http://live10.m2oplus.nmtv.cn/xwzh/hd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古经济生活" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png",内蒙古经济生活
 http://[2409:8087:1070:301:2028::1d]:80/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225879/01.m3u8?fmt=ts2hls
-#http://live10.m2oplus.nmtv.cn/jjsh/hd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古文体娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png",内蒙古文体娱乐
 http://[2409:8087:1050:301:2026::17]:80/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225877/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古农牧频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png",内蒙古农牧频道
@@ -102,14 +99,12 @@ http://[2409:8087:1050:301:2026::18]:80/gslbserv.iptv.nm.chinamobile.com/PLTV/88
 http://[2409:8087:1050:301:2026::18]:80/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225934/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",呼伦贝尔生活
 http://[2409:8087:1050:301:2026::17]:80/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225935/01.m3u8?fmt=ts2hls
-#http://live.hrtonline.cn/flv/live/live003.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宜昌综合
 http://yichang-live21.cjyun.org/10091/10091-yczh.m3u8?auth_key=1672502399-0-0-c34eb27bb6364b174e0152f5a7cd7862
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宜昌旅游生活
 http://yichang-live21.cjyun.org/10091/s10091-ycly.m3u8?auth_key=1672502399-0-0-764e7b81e48e1213ac192382bdb4501c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",枝江综合
 http://zhijiang-live21.cjyun.org/10120/s10120-zjtv.m3u8?auth_key=1672502399-0-0-f83353fbbe0d14afcc290bf428217de2
-#http://117.78.1.234/cjy.php?id=zjzh
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",呼伦贝尔·满洲里广播电视台
 http://[2409:8087:1050:301:2026::11]:80/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225826/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",呼伦贝尔·额尔古纳广播电视台
